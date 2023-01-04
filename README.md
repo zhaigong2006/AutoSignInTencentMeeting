@@ -1,0 +1,2 @@
+# AutoSignInTencentMeeting
+可以使用该程序自动登录腾讯会议室，并且按照规定的时间自动切换
